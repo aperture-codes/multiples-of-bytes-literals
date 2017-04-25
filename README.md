@@ -15,5 +15,7 @@ User defined literals for handling multiples of bytes postfixes.
 ## Usage
 
 ```cpp
+    using namespace multiples_of_bytes_literals;
+
     std::size_t buffer_size = 24_MiB;
 ```
