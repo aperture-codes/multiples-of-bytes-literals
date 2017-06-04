@@ -1,7 +1,5 @@
 #pragma once
 
-#include <cassert>
-#include <climits>
 #include <cstddef>
 
 namespace multiples_of_bytes_literals {
