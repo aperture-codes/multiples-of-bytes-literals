@@ -1,6 +1,8 @@
 #pragma once
 
 #include <cstddef>
+#include <climits>
+#include <algorithm>
 
 namespace multiples_of_bytes_literals {
 
